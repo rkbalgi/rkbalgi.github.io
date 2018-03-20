@@ -1,7 +1,8 @@
-Welcome to my github pages. You will find here some link to interesting or amusing things I've read (or as a marker for myself).
+Welcome to my github pages. In here you'll find some links to some of my articles or 
+things of my interest
 
 ## About me
-I'm a software developer working at a large IT services company in Bangalore, India. I work for a payments/financial client based in the US (more of that at my [linkedin](https://in.linkedin.com/pub/raghavendra-balgi/4/ba0/58) account). I mostly work with and around the Java ecosystem but, have dabbled with pretty much anything that's caught my attention (more recently scala, go).
+I'm a software developer working at a large IT services company in Bangalore, India. I work for a payments/financial client based in the US (more of that at my [linkedin](https://in.linkedin.com/pub/raghavendra-balgi/4/ba0/58) account). I mostly work with and around the Java ecosystem, but have dabbled with pretty much anything that's caught my attention (more recently scala, go , kotlin).
 
 ## Links
 1. Some of my older blog posts can be found [here](http://raghablog.blogspot.com)
