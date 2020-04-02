@@ -1,7 +1,7 @@
-title: rkbalgi.github.io
-description: Info and Links
+title: Raghavendra Balgi
+description: My Pages
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:

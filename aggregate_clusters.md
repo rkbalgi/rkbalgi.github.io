@@ -10,5 +10,6 @@ More to come here as I'm working on a proof of concept to demonstrate how aggreg
 
 
 ## Links
- - https://github.com/envoyproxy/envoy/issues/7454
- - https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/upstream/aggregate_cluster  
+ - [https://github.com/envoyproxy/envoy/issues/7454](https://github.com/envoyproxy/envoy/issues/7454)
+ - [https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/upstream/aggregate_cluster](https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/upstream/aggregate_cluster)
+ 
