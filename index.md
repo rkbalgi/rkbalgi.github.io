@@ -1,7 +1,7 @@
 Welcome to my github pages. In here you'll find links to some of my blogs, experiments etc.
 
 ## About me
-I'm a software developer working as a freelance consultant in Bangalore, India. I have more than 16 years of experience developing distributed systems for the payments/financial industry. (more of that at my [linkedin](https://in.linkedin.com/pub/raghavendra-balgi/4/ba0/58) account).
+I'm a software developer working as a freelance consultant in Bangalore, India. I have more than 15 years of experience developing distributed systems for the payments/financial industry. (more of that at my [linkedin](https://in.linkedin.com/pub/raghavendra-balgi/4/ba0/58) account).
 
 
 Some of my older blog posts can be found [here](http://raghablog.blogspot.com) and [here](https://medium.com/@rkbalgi)
