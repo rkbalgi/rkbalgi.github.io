@@ -5,7 +5,7 @@ failover within a cluster. Prior to aggregate clusters there was no way to failo
 cluster we can now define a primary, secondary cluster and envoy will try to find a host within these clusters based on a computed linearized
 priority list of hosts.
 
-You can follow along my example here (https://github.com/rkbalgi/appmesh-microsrvc#notes-for-running-aggregate-cluster-demo-on-envoyproxy)
+You can follow along my example here [https://github.com/rkbalgi/appmesh-microsrvc#notes-for-running-aggregate-cluster-demo-on-envoyproxy](https://github.com/rkbalgi/appmesh-microsrvc#notes-for-running-aggregate-cluster-demo-on-envoyproxy)
 
 
 
