@@ -9,6 +9,9 @@ Some of my older blog posts can be found [here](http://raghablog.blogspot.com) a
 <a href="https://twitter.com/raghabalgi?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @raghabalgi</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="raghabalgi"><a class="LI-simple-link" href='https://in.linkedin.com/in/raghabalgi?trk=profile-badge'>Raghavendra Balgi</a></div>
+ 
+
 ## My Projects
  - https://github.com/rkbalgi/isosim
  - https://github.com/rkbalgi/libiso
@@ -22,6 +25,8 @@ Some of my older blog posts can be found [here](http://raghablog.blogspot.com) a
  - [Aggregate clusters with Envoy](./aggregate_clusters.md)
  
  
+## Interests
+
 ### ISO8583
 
 I have worked a long time in the payments space, and you'll find that I've done quite a bit of work around ISO8583 messaging
@@ -37,5 +42,4 @@ I have worked a long time in the payments space, and you'll find that I've done 
  for JMeter based raw TCP testing.
  
  
- <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="raghabalgi"><a class="LI-simple-link" href='https://in.linkedin.com/in/raghabalgi?trk=profile-badge'>Raghavendra Balgi</a></div>
  
