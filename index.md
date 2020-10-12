@@ -24,14 +24,14 @@ Some of my older blog posts can be found [here](http://raghablog.blogspot.com) a
  
 ### ISO8583
 
-I have worked a long time in the payments space and you'll find that I've done quite a bit of work around ISO8583 messaging
+I have worked a long time in the payments space, and you'll find that I've done quite a bit of work around ISO8583 messaging
 
  [isosim](https://github.com/rkbalgi/isosim) and [libiso](https://github.com/rkbalgi/libiso) are two Go projects that can be used for testing ISO8583 related things -
  * Define ISO8583 specifications
  * Define TCP servers/clients backing the specs
  * Define ISO8583 server logic based on fields like amount etc
  
- I have other GitHub repo's that do ISO8583 simulators/libraries in other languages like Java, JavaScript and Rust.  
+ I have other GitHub repo's related to ISO8583 simulators/libraries in other languages like Java, JavaScript and Rust.  
  
  [https://github.com/rkbalgi/tcptester](https://github.com/rkbalgi/tcptester) is a Java library for TCP/IP load testing. I wrote this as a smaller alternative
  for JMeter based raw TCP testing.
