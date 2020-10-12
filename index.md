@@ -32,7 +32,8 @@ I have worked a long time in the payments space and you'll that I've done quite 
  
  I have other GitHub repo's that do ISO8583 simulators/libraries in other languages like Java, JavaScript and Rust.  
  
- [https://github.com/rkbalgi/tcptester](https://github.com/rkbalgi/tcptester) is a Java library for TCP/IP load testing.
+ [https://github.com/rkbalgi/tcptester](https://github.com/rkbalgi/tcptester) is a Java library for TCP/IP load testing. I wrote this as a smaller alternative
+ for JMeter based raw TCP testing.
  
  
  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="raghabalgi"><a class="LI-simple-link" href='https://in.linkedin.com/in/raghabalgi?trk=profile-badge'>Raghavendra Balgi</a></div>
