@@ -11,8 +11,9 @@ Some of my older blog posts can be found [here](http://raghablog.blogspot.com) a
 
 ## My Projects
  - https://github.com/rkbalgi/isosim
- - https://github.com/rkbalgi/go
+ - https://github.com/rkbalgi/libiso
  - https://github.com/rkbalgi/keedoh
+ - https://github.com/rkbalgi/tcptester
  - https://gitlab.com/rkbalgi/spring-boot-with-keyclok
 
 ## Posts
@@ -20,4 +21,13 @@ Some of my older blog posts can be found [here](http://raghablog.blogspot.com) a
  - [AppMesh internals](https://medium.com/@rkbalgi/app-mesh-routing-internals-c0344d3527da)
  - [Aggregate clusters with Envoy](./aggregate_clusters.md)
  
+ ## ISO8583
+ isosim and libiso are two Go projects that can be used for testing ISO8583 related things -
+ * Define ISO8583 specifications
+ * Define TCP servers/clients backing the specs
+ * Define ISO8583 server logic based on fields like amount etc
+ 
+ I have other GitHub repo's that do ISO8583 simulators/libraries in other languages like Java, JavaScript and Rust.  
+ 
+ [https://github.com/rkbalgi/tcptester](https://github.com/rkbalgi/tcptester) is a Java library for TCP/IP load testing.
  
